@@ -15,8 +15,7 @@
         <module>shop-member</module>
         <module>shop-order</module>
         <module>shop-ware</module>
-        <module>renren-fast</module>
-        <module>renren-generator</module>
+        <module>shop-operation</module>
     </modules>
 
 
